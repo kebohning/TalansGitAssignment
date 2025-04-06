@@ -1,8 +1,8 @@
 #Function 1
-# Returns Area of Rectangles
+# Returns Area of Rectangles - Talan's Function
 def rect_area(length,width):
     return int(length*width)
-#Function 2
+#Function 2 - Kate's Function
 # Returns Surface Area of Rectangular Solid
 def rect_surface_area(length,width,height):
     return int(2 * (length * width) + 2 * (length * height) + 2 * (width * height))
